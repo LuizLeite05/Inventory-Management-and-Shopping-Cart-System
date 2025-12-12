@@ -1,0 +1,5 @@
+101 Aspirin 12.50
+102 Ibuprofen 15.75
+103 Bandages 8.00
+104 Vitamins 28.90
+105 Thermometer 45.00
